@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/roiWrEtYfJ9vTe96KwdLKVeHcJpUVruoMF2aKO7IYo=",
+  "Source": "Projeto_Web_Lh_Pets_versão_1",
+  "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_Lh_Pets_versão_1\\wwwroot",
+      "Source": "Projeto_Web_Lh_Pets_versão_1",
+      "ContentRoot": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\Estudo - Renato\\Atividades - Senai\\Senai\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\Estudo - Renato\\Atividades - Senai\\Senai\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_Lh_Pets_versão_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\Estudo - Renato\\Atividades - Senai\\Senai\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
